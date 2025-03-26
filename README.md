@@ -21,15 +21,8 @@ A desktop tool to manage and search fabric patterns using categories and descrip
 
 #### 🧠 Clothing Recognition AI  
 An AI model that classifies clothing types based on uploaded images.  
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="400"/>
-
-#### 🛍 Etsy Order Tracker  
-A personal CRM for managing Etsy shop orders and customer info. *(Coming soon!)*
-
----
 
 ### 📫 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/dilarcakmak)
+- 📧 Email: dilaraaacakmakk@gmail.com 
 
-- 💼 [LinkedIn](https://linkedin.com/in/dilaraaydin)
-- 📧 Email: dilara@example.com  
-- 🌐 [Portfolio Website](https://dilara.dev) *(if available)*
