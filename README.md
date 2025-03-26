@@ -23,6 +23,6 @@ A desktop tool to manage and search fabric patterns using categories and descrip
 An AI model that classifies clothing types based on uploaded images.  
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/dilarcakmak)
+- 💼 [LinkedIn]([https://linkedin.com/in/dilarcakmak](https://www.linkedin.com/in/dilara-%C3%A7akmak-172588237/)
 - 📧 Email: dilaraaacakmakk@gmail.com 
 
