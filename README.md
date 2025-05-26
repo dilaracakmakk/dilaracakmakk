@@ -4,7 +4,7 @@ Lately, I’ve been exploring microcontrollers, which has helped me gain hands-o
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
 - Python
 - Computer Vision
@@ -16,7 +16,7 @@ Lately, I’ve been exploring microcontrollers, which has helped me gain hands-o
 
 ---  
 
-### 📫 Let's Connect
+###  Let's Connect
 - 💼 [LinkedIn]([https://linkedin.com/in/dilarcakmak](https://www.linkedin.com/in/dilara-%C3%A7akmak-172588237/)
 - 📧 Email: dilaraaacakmakk@gmail.com 
 
