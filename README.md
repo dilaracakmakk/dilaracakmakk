@@ -12,7 +12,7 @@ Lately, I’ve been exploring microcontrollers, which has helped me gain hands-o
 - Desktop Apps 
 - Tools & automation
 - Microcontrollers
-- Git, VS Code, GitHub
+
 
 ---  
 
