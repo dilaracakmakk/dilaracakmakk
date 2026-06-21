@@ -1,6 +1,6 @@
-I am continuously developing myself in various fields of technology, including artificial intelligence, web design, and embedded systems. My current focus is on AI-powered projects related to image recognition and classification. At the same time, I’m enhancing my skills in front-end development by building user interface and user experience-driven applications.
+I am continuously developing myself in various fields of technology, including artificial intelligence and web development. My current focus is on AI-powered projects related to image recognition and classification. At the same time, I’m enhancing my skills in front-end development by building user-centered applications with a strong focus on user interface and user experience.
 
-Lately, I’ve been exploring microcontrollers, which has helped me gain hands-on experience in hardware-software integration. I enjoy discovering new technologies, and I am passionate about continuous learning and problem solving. With a strong sense of collaboration and effective communication, I approach every project as an opportunity for both personal and professional growth.
+I enjoy exploring new technologies and turning ideas into practical solutions. Passionate about continuous learning and problem-solving, I approach every project as an opportunity to grow both personally and professionally. With a strong sense of collaboration and effective communication, I enjoy working in team environments and contributing to impactful projects.
 
 ---
 
@@ -10,9 +10,6 @@ Lately, I’ve been exploring microcontrollers, which has helped me gain hands-o
 - Computer Vision
 - Data Manipulation 
 - Desktop Apps 
-- Tools & automation
-- Microcontrollers
-
 
 ---  
 
