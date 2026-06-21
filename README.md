@@ -6,10 +6,17 @@ I enjoy exploring new technologies and turning ideas into practical solutions. P
 
 ###  Tech Stack
 
-- Python
-- Computer Vision
-- Data Manipulation 
-- Desktop Apps 
+Tech Stack
+
+• Python 
+• Machine Learning 
+• Computer Vision 
+• Data Analysis 
+• Front-End Development 
+• Desktop Applications 
+• SQL 
+• Git/GitHub
+
 
 ---  
 
