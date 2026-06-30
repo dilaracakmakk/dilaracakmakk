@@ -6,7 +6,6 @@ I enjoy exploring new technologies and turning ideas into practical solutions. P
 
 ###  Tech Stack
 
-Tech Stack
 
 • Python 
 • Machine Learning 
