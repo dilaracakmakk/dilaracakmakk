@@ -7,29 +7,64 @@
 
 </div>
 
+I'm a Software Engineer who loves turning ideas into meaningful digital experiences. ✨
 
-I am continuously developing myself in various fields of technology, including artificial intelligence and web development. My current focus is on AI-powered projects related to image recognition and classification. At the same time, I’m enhancing my skills in front-end development by building user-centered applications with a strong focus on user interface and user experience.
+My interests lie at the intersection of Artificial Intelligence, Computer Vision, Data Analysis, and Web Development. I especially enjoy building intelligent applications, exploring how machines interpret visual information, and creating user-friendly digital solutions.
 
-I enjoy exploring new technologies and turning ideas into practical solutions. Passionate about continuous learning and problem-solving, I approach every project as an opportunity to grow both personally and professionally. With a strong sense of collaboration and effective communication, I enjoy working in team environments and contributing to impactful projects.
+I believe technology is not just about writing code — it's about solving problems, staying curious, and creating something that makes a difference.
 
----
+I'm always learning, experimenting, and finding new ways to grow as a developer. 🌱
 
-###  Tech Stack
+🧠 What I'm Into
 
+🤖 Artificial Intelligence & Machine Learning — Exploring intelligent systems and practical AI applications.
 
-• Python 
-• Machine Learning 
-• Computer Vision 
-• Data Analysis 
-• Front-End Development 
-• Desktop Applications 
-• SQL 
-• Git/GitHub
+👁️ Computer Vision — Working with image recognition, classification, and visual data.
 
+📊 Data Analysis — Finding meaningful insights hidden in data.
 
----  
+🎨 Front-End Development — Building clean, intuitive, and user-centered interfaces.
 
-###  Let's Connect
-- 💼 [LinkedIn]([https://linkedin.com/in/dilarcakmak](https://www.linkedin.com/in/dilara-%C3%A7akmak-172588237/)
-- 📧 Email: dilaraaacakmakk@gmail.com 
+💡 Creative Problem Solving — Turning interesting ideas into real-world projects.
 
+🛠️ Tech Stack
+
+Languages & Technologies
+
+Python · JavaScript · HTML · CSS · SQL
+
+Areas of Interest
+
+Machine Learning · Computer Vision · Data Analysis · Web Development · UI/UX
+
+Tools & Frameworks
+
+TensorFlow · Keras · Streamlit · Node.js · Express.js · Git · GitHub
+
+🌱 Currently Exploring
+
+Building practical AI-powered applications
+
+Improving my full-stack development skills
+
+Exploring the connection between AI and everyday problems
+
+Sharing what I learn through technical writing
+
+☕ A Little More About Me
+
+I love the process of learning something new, experimenting with ideas, and watching them slowly turn into working projects.
+
+For me, every project is a little adventure — a chance to learn, create, and become a better engineer. ✨
+
+💌 Let's Connect!
+
+I'm always happy to connect with people who share a passion for technology, creativity, and continuous learning.
+
+💼 LinkedIn: linkedin.com/in/dilarcakmak
+
+✍️ Medium: Read my articles
+
+📧 Email: dilaraaacakmakk@gmail.com
+
+Keep learning, keep creating, and stay curious. 🌷
