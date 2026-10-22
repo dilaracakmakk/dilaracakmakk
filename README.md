@@ -37,5 +37,3 @@ I love exploring new technologies, building creative solutions, and turning idea
 *Stay curious, keep creating.* 🌷
 
 </div>
-
-Keep learning, keep creating, and stay curious. 🌷
